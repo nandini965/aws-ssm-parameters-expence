@@ -3,5 +3,6 @@ parameters = [
   { name = "dev.mysql.db_host", value = "172.31.47.34" }
 ]
 passwords = [
-
+  { name = "dev.rds.db_user", value = "Expense" },
+  { name = "dev.rds.db_pass", value = "ExpenseApp@1" }
 ]
