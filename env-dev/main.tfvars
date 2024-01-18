@@ -4,5 +4,5 @@ parameters = [
 ]
 passwords = [
   { name = "dev.rds.db_user", value = "Expense" },
-  { name = "dev.rds.db_pass", value = "ExpenseApp@1" }
+  { name = "dev.rds.db_pass", value = "expenseapp12345" }
 ]
